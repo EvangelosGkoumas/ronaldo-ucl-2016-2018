@@ -13,6 +13,9 @@ This project combines two free, public data sources and a small SQL + Python pip
 All numbers are reproducible by running one command, and the campaign goal totals are
 **validated against Ronaldo's official tallies** (16 / 12 / 15) before any chart is drawn.
 
+> 📓 **Want the whole analysis in one scrollable page** (narrative + code + charts)? Open
+> [`Ronaldo-UCL-analysis.ipynb`](Ronaldo-UCL-analysis.ipynb) — it renders right here on GitHub.
+
 ---
 
 ## What the data says
